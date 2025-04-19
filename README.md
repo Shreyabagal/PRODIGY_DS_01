@@ -18,7 +18,7 @@ The objective of this project is to:
 1. **Clone the Repository**:  
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/PRODIGY_DS_01.git
+   git clone https://github.com/Shreyabagal/PRODIGY_DS_01.git
    ```
 
 2. **Install Dependencies**:  
